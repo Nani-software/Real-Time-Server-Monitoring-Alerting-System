@@ -1,0 +1,3 @@
+alertmanager/alertmanager.yml
+.env
+*.log
